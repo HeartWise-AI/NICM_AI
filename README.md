@@ -70,9 +70,8 @@ The ECG-ML model demonstrated strong predictive performance, significantly excee
 
 ### Install dependencies
 
-```bash
 pip install -r requirements.txt
-```
+
 
 ---
 
