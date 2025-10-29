@@ -28,13 +28,13 @@ This project develops and evaluates an **ECG-based machine learning (ECG-ML)** m
 
 ## Repository Structure
 
-├── data_processing/          # Scripts for ECG data preprocessing and feature extraction **
-├── evaluation/               # Model evaluation scripts and performance metrics **
-├── explainability/           # Model interpretability (e.g., Grad-CAM, SHAP) **
-├── models_training/          # Neural network training pipelines **
-├── pre_trained_models/       # Saved trained models and weights **
-├── requirements.txt          # Python dependencies **
-└── README.md                 # Project documentation (this file) **
+data_processing/ – Scripts for ECG data preprocessing and feature extraction
+evaluation/ – Model evaluation scripts and performance metrics
+explainability/ – Model interpretability (e.g., Grad-CAM, SHAP)
+models_training/ – Neural network training pipelines
+pre_trained_models/ – Saved trained models and weights
+requirements.txt – Python dependencies
+README.md – Project documentation (this file)
 
 
 ##  Methods Summary
