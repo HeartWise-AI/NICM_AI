@@ -28,7 +28,6 @@ This project develops and evaluates an **ECG-based machine learning (ECG-ML)** m
 
 ## Repository Structure
 
-```
 ├── data_processing/          # Scripts for ECG data preprocessing and feature extraction
 ├── evaluation/               # Model evaluation scripts and performance metrics
 ├── explainability/           # Model interpretability (e.g., Grad-CAM, SHAP)
@@ -49,7 +48,6 @@ This project develops and evaluates an **ECG-based machine learning (ECG-ML)** m
   * Pathogenic genetic variants
 * **Evaluation metric:** AUC (area under the ROC curve) and sensitivity/specificity balance.
 
----
 
 ## Results
 
