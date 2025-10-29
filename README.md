@@ -32,10 +32,7 @@ data_processing/ – Scripts for ECG data preprocessing and feature extraction<b
 evaluation/ – Model evaluation scripts and performance metrics<br>
 explainability/ – Model interpretability (e.g., Grad-CAM, SHAP)<br>
 models_training/ – Neural network training pipelines<br>
-pre_trained_models/ – Saved trained models and weights<br>
 requirements.txt – Python dependencies<br>
-README.md – Project documentation (this file)<br>
-
 
 ##  Methods Summary
 
